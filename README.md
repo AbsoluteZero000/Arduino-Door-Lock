@@ -9,4 +9,4 @@
     - Servo (or any actuator to close/open the door)
 
 
-##### this was made in 2021
+##### This was made in 2021
